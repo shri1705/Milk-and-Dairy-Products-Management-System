@@ -1,1 +1,1 @@
-# Milk-and-Dairy-Products-Management-System
+Milk-and-Dairy-Products-Management-System comprises the integration of python(TKinter) for frontend along with MySQL for database at the backend.The Milk and Dairy Management system will provide a best user interface to maintain the admin, user, product details and province for calculating bills for products purchased .
